@@ -20,6 +20,6 @@ github_username: jekyll
 markdown: kramdown
 # theme: alembic-jekyll-theme
 plugins:
-    - jekyll-feed
-    - jekyll-remote-theme
+- jekyll-feed
+- jekyll-remote-theme
 remote_theme: daviddarness/alembic
