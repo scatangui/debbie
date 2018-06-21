@@ -2,6 +2,9 @@
 title: Deborah Saks
 timezone: America/Guyana
 collections:
+  pieces:
+    title: Pieces
+    output: true
   posts:
     title: Posts
     output: true
@@ -15,6 +18,6 @@ url:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
 - jekyll-feed
