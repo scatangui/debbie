@@ -1,0 +1,20 @@
+---
+title: Deborah Saks
+timezone: America/Guyana
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: your-email@example.com
+description: Collages by Deborah
+baseurl: 
+url: 
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
