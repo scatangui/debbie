@@ -2,6 +2,9 @@
 title: Deborah Saks
 timezone: America/Guyana
 collections:
+  pieces:
+    title: Pieces
+    output: true
   posts:
     title: Posts
     output: true
